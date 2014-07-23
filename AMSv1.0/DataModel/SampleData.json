@@ -1,0 +1,79 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "基于视觉体感双平衡的防晕动系统",
+    "Subtitle": "稳定视角",
+    "ImagePath": "Assets/chuan.png",
+    "Description" : " ",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "海面景色",
+        "Subtitle": "船体前端摄像机",
+        "ImagePath": "Assets/sea.png",
+        "Description" : " ",
+        "Content" : " "
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "舱内视角",
+        "Subtitle": "室内摄像机",
+        "ImagePath": "Assets/cabin.jpg",
+        "Description" : " ",
+        "Content" : " "
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "甲板视角",
+        "Subtitle": "甲板摄像机",
+        "ImagePath": "Assets/jiaban.gif",
+        "Description" : " ",
+        "Content" : " "
+      },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "侧舷视角",
+        "Subtitle": "侧舷摄像机",
+        "ImagePath": "Assets/cexian.jpg",
+        "Description" : " ",
+        "Content" : " "
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "船舱服务",
+    "Subtitle": "在这里你可以预定各种船舱服务",
+    "ImagePath": "Assets/fuwu.jpg",
+    "Description" : " ",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "点餐服务",
+        "Subtitle": "匹萨、汉堡等西式快餐",
+        "ImagePath": "Assets/pisa.jpg",
+        "Description" : " ",
+        "Content" : " "
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "视频娱乐服务",
+        "Subtitle": "点击点播视频电影",
+        "ImagePath": "Assets/movie.jpg",
+        "Description" : " ",
+        "Content" : " "
+      },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "其他服务",
+        "Subtitle": "随时为您服务",
+        "ImagePath": "Assets/service.png",
+        "Description" : " ",
+        "Content" : " "
+      }
+    ]
+  }
+]
+}
